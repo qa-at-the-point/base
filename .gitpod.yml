@@ -1,0 +1,5 @@
+# Configuration file (see https://www.gitpod.io/docs/config-gitpod-file)
+
+tasks:
+  - before: bundle install
+  - init: bundle exec jekyll serve --watch

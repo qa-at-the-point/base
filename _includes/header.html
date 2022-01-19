@@ -1,43 +1,31 @@
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark" id="topNav">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
+    aria-expanded="false" aria-label="Toggle navigation">
+    <span class="icono-hamburger" id="navbar-hamburger"> </span>
+  </button>
+  <a class="navbar-brand" href="/">{{site.title}}</a>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      {% for i in site.urls %}
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.url}}{{site.baseurl}}{{ i.url }}">{{ i.text }}</a>
+      </li>
+      {% endfor %}
 
-        <nav class="navbar navbar-expand-lg fixed-top navbar-dark" id="topNav">
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarNav"
-            aria-controls="navbarNav"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span class="icono-hamburger" id="navbar-hamburger"> </span>
-          </button>
-          <a class="navbar-brand" href="/">{{site.title}}</a>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-              {% for i in site.urls %}
-              <li class="nav-item">
-                <a
-                  class="nav-link"
-                  href="{{ site.url}}{{site.baseurl}}{{ i.url }}"
-                  >{{ i.text }}</a
-                >
-              </li>
-              {% endfor %}
-
-            </ul>
-          </div>
-          <ul class="nav justify-content-end">
-            <li class="nav-item">
-              <a class="nav-link" href="{{site.url}}{{site.baseurl}}/styleguide">
-                 Styleguide
-              </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link toggle-search-button" href="#search">
-                <i class="fa fa-search search-icon" aria-hidden="true"></i>
-              </a>
-            </li>
-            <li class="nav-item" style="margin-top:5px; padding-right:20px;" >
+    </ul>
+  </div>
+  <ul class="nav justify-content-end">
+    <li class="nav-item">
+      <a class="nav-link" href="{{site.url}}{{site.baseurl}}/styleguide">
+        Styleguide
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link toggle-search-button" href="#search">
+        <i class="fa fa-search search-icon" aria-hidden="true"></i>
+      </a>
+    </li>
+    <!-- <li class="nav-item" style="margin-top:5px; padding-right:20px;" >
                 <a class="header__checkout snipcart-checkout">
                     <svg width="31" height="27" viewBox="0 0 31 27" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path
@@ -45,11 +33,11 @@
                         fill="#ff7901" class="header__checkout-fill"></path>
                     </svg>
                     <span class="snipcart-items-count"></span>
-                    <!-- <span class="snipcart-total-price"></span> -->
+                    <span class="snipcart-total-price"></span>
                   </a>
-            </li>
+            </li> -->
 
-            <!-- <li class="nav-item">
+    <!-- <li class="nav-item">
               <input
                 class="nav-link switch"
                 id="theme-toggle"
@@ -58,30 +46,30 @@
                 name="checkbox"
               />
             </li> -->
-          </ul>
-        </nav>
-        <div id="progress-bar"></div>
-        <!-- Search Form -->
-        <div class="search-form-container">
+  </ul>
+</nav>
+<div id="progress-bar"></div>
+<!-- Search Form -->
+<div class="search-form-container">
 
-          <form class="search-form">
-            <fieldset class="search-form__fieldset">
-              <div class="row">
-                <div class="col-lg-8 offset-md-2">
-                  <input class="search-form__field" placeholder="Type to Search..." autofocus>
-                  <input class="search-form__submit" type="submit" value="search">
-                </div>
-              </div>
-            </fieldset>
-          </form>
-
-          <div class="row">
-            <div class="col-lg-8 offset-md-2 search-results">
-              <div class="card search-results"></div>
-            </div>
-          </div>
-
-          <div class="close-search-button search-form-container__close">
-              <i class="fa fa-times icon"></i>
-          </div>
+  <form class="search-form">
+    <fieldset class="search-form__fieldset">
+      <div class="row">
+        <div class="col-lg-8 offset-md-2">
+          <input class="search-form__field" placeholder="Type to Search..." autofocus>
+          <input class="search-form__submit" type="submit" value="search">
         </div>
+      </div>
+    </fieldset>
+  </form>
+
+  <div class="row">
+    <div class="col-lg-8 offset-md-2 search-results">
+      <div class="card search-results"></div>
+    </div>
+  </div>
+
+  <div class="close-search-button search-form-container__close">
+    <i class="fa fa-times icon"></i>
+  </div>
+</div>
