@@ -3,8 +3,8 @@ subtitle: Open Source Knowledgebase
 description: >- # this means to ignore newlines until "baseurl:"
   QAP is the Software Testing and Quality Community based in Utah, USA
 
-url: "https://qap.dev" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "/base" # the subpath of your site, e.g. /blog
+url: "https://base.qap.dev" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
