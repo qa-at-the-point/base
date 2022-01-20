@@ -1,10 +1,10 @@
 title: QA at the Point
-subtitle: QAP's open-source knowledgebase
+subtitle: Open Source Knowledgebase
 description: >- # this means to ignore newlines until "baseurl:"
   QAP is the Software Testing and Quality Community based in Utah, USA
 
-url: "https://base.qap.dev" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://qap.dev" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/base" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
@@ -14,12 +14,12 @@ urls:
     url: /about
   - text: Blog
     url: /blog
-  - text: Gallery
-    url: /gallery
-  - text: Shop
-    url: /shop
-  - text: Contact
-    url: /contact
+  # - text: Gallery
+  #   url: /gallery
+  # - text: Shop
+  #   url: /shop
+  # - text: Contact
+  #   url: /contact
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
@@ -29,7 +29,7 @@ author_bio: QAP is the Software Testing and Quality Community based in Utah, USA
 author_email: "carlos@qap.dev"
 author_location: Utah, USA
 author_website_url: "https://qap.dev"
-typewrite-text: Welcome to the QAP open-source knowledgebase!
+typewrite-text: Welcome to the QAP Open Source Knowledgebase!
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -43,8 +43,8 @@ author_work_experiences:
   - company_name: Manual Testers | Autobots
     company_logo: meetup.png
     company_url: https://www.meetup.com/QA-at-the-Point/
-    designation: Weekly Classrooms
-    description: Trainings and discussions with practical, hands-on examples.
+    designation: Weekly Classes
+    description: Workshops and discussions with practical, hands-on examples. Please RSVP
     visibility: true
 
 # Education

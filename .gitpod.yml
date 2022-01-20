@@ -2,4 +2,4 @@
 
 tasks:
   - before: bundle install
-  - init: bundle exec jekyll serve --watch
+  - init: bundle exec jekyll serve --livereload
