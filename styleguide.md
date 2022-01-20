@@ -5,16 +5,18 @@ permalink: /styleguide/
 ---
 
 
-### devlopr - Styleguide
+### Blog/Post Styleguide
 
 <hr />
 
  <img src="/assets/img/styleguide.png" class="img-fluid">
 
-<p> Lets try the different text styles  <b> Bold </b> , <strong> Strong </strong>, <em> Emphasis </em>, <i> Italic </i> </p>
+<p> A visual styleguide to get an idea of how your post will look:
+  <span> <b> Bold </b> , <strong> Strong </strong>, <em> Emphasis </em>, <i> Italic </i> </span>
+</p>
 
 
-<p> Now, lets try different heading styles : </p>
+<p> Heading styles : </p>
 
 <h1> Hello in h1 ! </h1>
 <h2> Hello in h2 ! </h2>

@@ -8,7 +8,12 @@
     <ul class="navbar-nav">
       {% for i in site.urls %}
       <li class="nav-item">
+        {% if i.text != 'Wiki' %}
         <a class="nav-link" href="{{ site.url}}{{site.baseurl}}{{ i.url }}">{{ i.text }}</a>
+        {% endif %}
+        {% if i.text == 'Wiki' %}
+        <a class="nav-link" href="https://github.com/qa-at-the-point/base/wiki">{{ i.text }}</a>
+        {% endif %}
       </li>
       {% endfor %}
 
