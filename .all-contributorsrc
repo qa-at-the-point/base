@@ -6,10 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "sujaykundu777",
-      "name": "Sujay Kundu",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10703200?v=4",
-      "profile": "https://sujaykundu.com",
+      "login": "elsnoman",
+      "name": "Carlos Kidman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23081277?s=400&u=8e6de352f6fe494188d423414be2a0a062641443&v=4",
+      "profile": "https://linktr.ee/carloskidman",
       "contributions": [
         "infra",
         "design",
@@ -102,8 +102,8 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "devlopr-jekyll",
-  "projectOwner": "sujaykundu777",
+  "projectName": "qap-knowledge-base",
+  "projectOwner": "elsnoman",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true

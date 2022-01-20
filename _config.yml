@@ -1,5 +1,5 @@
 title: QA at the Point
-subtitle: QAP's open-soure knowledgebase
+subtitle: QAP's open-source knowledgebase
 description: >- # this means to ignore newlines until "baseurl:"
   QAP is the Software Testing and Quality Community based in Utah, USA
 
@@ -28,23 +28,23 @@ author: QA at the Point
 author_bio: QAP is the Software Testing and Quality Community based in Utah, USA
 author_email: "carlos@qap.dev"
 author_location: Utah, USA
-author_website_url: "https://base.qap.dev"
+author_website_url: "https://qap.dev"
 typewrite-text: Welcome to the QAP open-source knowledgebase!
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-  - company_name: Google
-    company_logo: google.png
-    company_url: https://google.com
-    designation: Software Engineer
-    description: Worked on various Google Products
+  - company_name: Main Event | Presentations
+    company_logo: meetup.png
+    company_url: https://www.meetup.com/QA-at-the-Point/
+    designation: Monthly Meetup
+    description: Hybrid (in-person & virtual) and recorded! Please RSVP
     visibility: true
-  - company_name: Microsoft
-    company_logo: microsoft.png
-    company_url: https://microsoft.com
-    designation: Azure Developer
-    description: Worked on various Azure Cloud Products
+  - company_name: Manual Testers | Autobots
+    company_logo: meetup.png
+    company_url: https://www.meetup.com/QA-at-the-Point/
+    designation: Weekly Classrooms
+    description: Trainings and discussions with practical, hands-on examples.
     visibility: true
 
 # Education
@@ -70,16 +70,16 @@ author_project_details:
     visibility: true
 
 # social links
-twitter_username: johndoe
-github_username: sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: CarlosKidman
+github_username: elsnoman
+linkedin_username: carlos-kidman
+# facebook_username: johndoe
+# behance_username: johndoe
+# instagram_username: johndoe
+# medium_username: johndoe
+# telegram_username: johndoe
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -106,9 +106,9 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-# show_author_work_experiences: true
-# show_author_education_details: true
-# show_author_project_details: true
+show_author_work_experiences: true
+show_author_education_details: false
+show_author_project_details: false
 
 # pagination of posts
 paginate: 4

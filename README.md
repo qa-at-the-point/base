@@ -3,9 +3,6 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![Gem Version](https://badge.fury.io/rb/devlopr.svg)](https://badge.fury.io/rb/devlopr)![workflow-badge](https://github.com/sujaykundu777/devlopr-jekyll/workflows/deploy/badge.svg)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4232ac2b-63e0-4c78-92e0-e95aad5ab8c3/deploy-status)](https://app.netlify.com/sites/devlopr/deploys)
-![](https://ruby-gem-downloads-badge.herokuapp.com/devlopr?type=total&color=brightgreen&style=plastic)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Bakers](https://opencollective.com/devlopr-jekyll/tiers/badge.svg)](https://opencollective.com/devlopr-jekyll/)
 
@@ -25,14 +22,14 @@ To get started follow this [Tutorial](https://devlopr.netlify.app/get-started)
 
 or if you want to try fast :
 
-### Follow this steps in browser (takes 5-10 mins): 
+### Follow this steps in browser (takes 5-10 mins):
 1. Fork this Repo with your name as  your_username.github.io
 2. Visit your Fork repo at https://github.com/your_username/your_username.github.io
 3. Press "." in keyboard (this will open up vs-code editor in browser) of the repo.
 4. Customize config.yml file according to your needs (eg. change your Name, Email... etc.)
-5. Commit your changes, and push 
+5. Commit your changes, and push
 6. Wait for CI/CD to build your website. Visit Github Actions to see the build process.
-7. Once Ready, Your website will be ready at https://your_username.github.io :sparkles: 
+7. Once Ready, Your website will be ready at https://your_username.github.io :sparkles:
 8. Happy Hacking your new site ! For Local changes you can clone locally.
 
 
@@ -59,7 +56,7 @@ $ bundle exec jekyll serve
 ```
 Start the server locally at http://127.0.0.1:4000/ or http://localhost:4000/
 
-### Security 
+### Security
 
 We use codeQL and dependabot alerts for vulnerabality analysis & fixes.
 
