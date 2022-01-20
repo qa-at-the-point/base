@@ -1,7 +1,9 @@
 # Configuration file (see https://www.gitpod.io/docs/config-gitpod-file)
 
 tasks:
-  # Install bundler package manager, then install all dependiences from Gemfile
-  - before: gem install bundler:2.2.30 && bundle install
-  # Run the jekyll server locally so you can work/debug the website at localhost:4000
-  - init: bundle exec jekyll serve --livereload
+    # Install bundler package manager (correct version)
+  - before: gem install bundler:2.2.30
+    # Then install all dependiences from Gemfile
+    init: bundle install
+    # Run the jekyll server locally so you can work/debug the website at localhost:4000
+    command: bundle exec jekyll serve --livereload
