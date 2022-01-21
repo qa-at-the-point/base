@@ -18,6 +18,22 @@ One of the many ways you can contribute to the QAP community is by creating Post
 
 This post is a guide to help you create one yourself, but please reach out if you have questions or need help!
 
+
+**Table of Contents**
+
+- [Anatomy of a Post](#anatomy-of-a-post)
+  - [File Names](#file-names)
+  - [Frontmatter](#frontmatter)
+  - [Markdown](#markdown)
+- [Ready to Submit](#ready-to-submit)
+  - [Provide Author Info](#provide-author-info)
+  - [Send it](#send-it)
+- [Other Considerations](#other-considerations)
+  - [Add a Category](#add-a-category)
+  - [Thumbnail](#thumbnail)
+  - [References](#references)
+- [You ready to contribute?](#you-ready-to-contribute)
+
 ## Anatomy of a Post
 
 In a nutshell, posts are just markdown files. They also need a "metadata" section at the top and a specific file name format, but knowing how to write with markdown is 95% of it.
@@ -33,7 +49,7 @@ In a nutshell, posts are just markdown files. They also need a "metadata" sectio
 
 For example, the file name for this post was `2022-01-20-how-to-make-a-post.md`
 
-### Metadata
+### Frontmatter
 
 With the file created, you start by adding a metadata section (aka frontmatter). This is information about the article that Jekyll will use when generating the website.
 
@@ -71,7 +87,7 @@ If you are new to markdown, I recommend starting with this [Syntax Cheatsheet](h
 
 Now add all of your wonderful markdown content! Once you're ready, we need some remaining pieces before you submit.
 
-### Credit the Author
+### Provide Author Info
 
 If you are a new author, then you need to provide some info about you.
 
@@ -132,7 +148,7 @@ bundle exec jekyll serve --livereload
 
 > 🎉 We will review it, ask for revisions (if needed), and eventually approve and publish it!
 
-## Tips & Tricks
+## Other considerations
 
 There are some other bits and pieces you may need depending on your situation. I will add them to this section, but this isn't an exhaustive list. Some are just good ideas like listing sources and adding alt text!
 

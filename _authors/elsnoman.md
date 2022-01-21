@@ -1,7 +1,7 @@
 ---
 name: Carlos Kidman
 username: elsnoman
-bio: "Carlos Kidman | Founder of QAP | Direction of Engieering | Python + ML/AI"
+bio: "Founder of QAP . Director of Engieering . Python . ML/AI"
 site: https://linktr.ee/carloskidman
 avatar: elsnoman.png
 email: carlos@qap.dev
