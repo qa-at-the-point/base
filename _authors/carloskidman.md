@@ -1,7 +1,7 @@
 ---
 name: Carlos Kidman
 username: carloskidman
-bio: "Founder of QAP . Director of Engieering . Python . ML/AI"
+bio: "Founder of QAP . Director of Engineering . Python . ML/AI"
 site: https://linktr.ee/carloskidman
 avatar: carloskidman.png
 email: carlos@qap.dev
