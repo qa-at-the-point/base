@@ -19,7 +19,7 @@ One of the many ways you can contribute to the QAP community is by creating Post
 This post is a guide to help you create one yourself, but please reach out if you have questions or need help!
 
 
-**Table of Contents**
+#### Table of Contents
 
 - [Anatomy of a Post](#anatomy-of-a-post)
   - [File Names](#file-names)
