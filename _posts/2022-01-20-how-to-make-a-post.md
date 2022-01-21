@@ -2,11 +2,11 @@
 layout: post
 title:  "How to make a Post"
 summary: "Learn how to add a Post to the QAP Knowledgebase"
-author: elsnoman
+author: carloskidman
 date: '2022-01-20 15:48:00 +0000'
 category: ['get started', 'guides', 'testing']
 tags: QAP
-thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/posts/christina-morillo.jpg
 keywords: get started, guides, how to, post, make a post
 usemathjax: false
 permalink: /blog/how-to-make-a-post/
@@ -62,11 +62,11 @@ For example, this is the frontmatter I used for this post:
 layout: post
 title:  "How to make a Post"
 summary: "Learn how to make a Post for the QAP Knowledgebase"
-author: elsnoman
+author: carloskidman
 date: '2022-01-20 15:48:00 +0000'
 category: ['guides', 'testing']
 tags: QAP
-thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/posts/christina-morillo.jpg
 keywords: guides, how to, post, make a post
 usemathjax: false
 permalink: /blog/how-to-make-a-post/
@@ -185,10 +185,10 @@ Using the category, all the posts associated with the category will be listed on
 
 I recommend adding a thumbnail to every post since they're not just visual, but also set the tone for the post.
 
-The frontmatter has a `thumbnail` field that points to a specific folder `/assets/img/posts/`. For example, this post uses the `code.jpg` image so the frontmatter field looks like this:
+The frontmatter has a `thumbnail` field that points to a specific folder `/assets/img/posts/`. For example, this post uses the `christina-morillo.jpg` image so the frontmatter field looks like this:
 
 ```yml
-thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/posts/christina-morillo.jpg
 ```
 
 ### References
