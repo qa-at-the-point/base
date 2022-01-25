@@ -18,7 +18,7 @@ For the `base` repo, there are a different ways to setup the project:
 
 > 💡 Use the [Visual Styleguide](https://base.qap.dev/styleguide) to see what the markdown post will look like on the website.
 
-> 💡 Use the [styleguide.md](https://github.com/qa-at-the-point/base/blob/main/styleguide.md) (and click `Raw` or `Edit`) to see what the raw markdown file looks like.
+> 💡 Use [how-to-make-a-post.md](https://github.com/qa-at-the-point/base/blob/main/_posts/2022-01-20-how-to-make-a-post.md) (and click `Raw`) to see what a raw markdown file looks like.
 
 ---
 
