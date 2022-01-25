@@ -6,7 +6,7 @@
 - Add or edit a **_wiki page_** in our [QAP Wiki](https://github.com/qa-at-the-point/base/wiki)
 - Add or edit a _code_ example in our [GitHub](https://github.com/qa-at-the-point/) (ie Gist, Recipe, Repo)
 - Ask questions or answer them in our [Discussions Board](https://github.com/qa-at-the-point/base/discussions)
-- and more!
+- Request an item or topic to be added to the Knowledgebase in our [Issues Board](https://github.com/qa-at-the-point/base/issues)
 
 > 💡 Code contributions should go to their respective repos. Please contact `Carlos Kidman (elsnoman)` with any questions.
 
