@@ -1,7 +1,14 @@
 # Configuration file (see https://www.gitpod.io/docs/config-gitpod-file)
 
+vscode:
+  extensions:
+    - davidanson.vscode-markdownlint
+    - esbenp.prettier-vscode
+    - gulajavaministudio.mayukaithemevsc
+    - pkief.material-icon-theme
+
 tasks:
-    # Install bundler package manager (correct version)
+  # Install bundler package manager (correct version)
   - before: gem install bundler:2.2.30
     # Then install all dependiences from Gemfile
     init: bundle install

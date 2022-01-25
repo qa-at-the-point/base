@@ -2,11 +2,11 @@
 
 ❤️ Thank you! Contributions are more than welcome and there are multiple ways to contribute.
 
-* Add or edit an official ***post*** on our [Knowledgebase Website](https://base.qap.dev)
-* Add or edit a ***wiki page*** in our [QAP Wiki](https://github.com/qa-at-the-point/base/wiki)
-* Add or edit a _code_ example in our [GitHub](https://github.com/qa-at-the-point/) (ie Gist, Recipe, Repo)
-* Ask questions or answer them in our [Discussions Board](https://github.com/qa-at-the-point/base/discussions)
-* and more!
+- Add or edit an official **_post_** on our [Knowledgebase Website](https://base.qap.dev)
+- Add or edit a **_wiki page_** in our [QAP Wiki](https://github.com/qa-at-the-point/base/wiki)
+- Add or edit a _code_ example in our [GitHub](https://github.com/qa-at-the-point/) (ie Gist, Recipe, Repo)
+- Ask questions or answer them in our [Discussions Board](https://github.com/qa-at-the-point/base/discussions)
+- and more!
 
 > 💡 Code contributions should go to their respective repos. Please contact `Carlos Kidman (elsnoman)` with any questions.
 
@@ -46,21 +46,21 @@ Fork the repo and create a new branch, then submit a pull request.
 
 2. Create your feature branch
 
-    ```sh
-    git checkout -b my-new-feature
-    ```
+   ```sh
+   git checkout -b my-new-feature
+   ```
 
 3. Commit your changes
 
-    ```sh
-    git commit -am 'Add some feature'
-    ```
+   ```sh
+   git commit -am 'Add some feature'
+   ```
 
 4. Push to the branch
 
-    ```sh
-    git push origin my-new-feature
-    ```
+   ```sh
+   git push origin my-new-feature
+   ```
 
 5. Create new Pull Request
 
@@ -68,4 +68,4 @@ Fork the repo and create a new branch, then submit a pull request.
 
 If you are unfamiliar with GitHub, coding, or just want the simplest option, you can send us a markdown file. A maintainer will review it, may ask for revisions, put it in the appropriate place, and submit it for you.
 
-> Please send them to Carlos Kidman! Preferably in our Slack group 😎
+> Please send them to Carlos Kidman! Preferably in our [Slack](https://join.slack.com/t/qautah/shared_invite/zt-4cbb6q78-J8opsCMlPqOKdef42x9kUw) group 😎

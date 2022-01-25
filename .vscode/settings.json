@@ -1,0 +1,19 @@
+{
+  "explorer.openEditors.visible": 0,
+  "workbench.colorTheme": "Mayukai Mirage",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.maxColumn": 200,
+  "editor.minimap.showSlider": "always",
+  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.lineHeight": 20,
+  "editor.formatOnSave": true,
+  "editor.mouseWheelZoom": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.bracketPairColorization.enabled": true,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "git.ignoreMissingGitWarning": true
+}

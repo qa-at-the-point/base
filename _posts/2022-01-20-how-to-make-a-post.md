@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "How to make a Post"
+title: "How to make a Post"
 summary: "Learn how to add a Post to the QAP Knowledgebase"
 author: carloskidman
-date: '2022-01-20 15:48:00 +0000'
-category: ['get started', 'guides', 'testing']
+date: "2022-01-20 15:48:00 +0000"
+category: ["contribute", "guides"]
 tags: QAP
 thumbnail: /assets/img/posts/christina-morillo.jpg
 keywords: get started, guides, how to, post, make a post
@@ -12,12 +12,9 @@ usemathjax: false
 permalink: /blog/how-to-make-a-post/
 ---
 
-# How to make a Post
-
 One of the many ways you can contribute to the QAP community is by creating Posts (aka Articles) for our [QAP Open Source Knowledgebase](https://base.qap.dev). You can either add the post directly to the [GitHub Repo](https://github.com/qa-at-the-point/base) or send the post to Carlos Kidman.
 
 This post is a guide to help you create one yourself, but please reach out if you have questions or need help!
-
 
 #### Table of Contents
 
@@ -60,11 +57,11 @@ For example, this is the frontmatter I used for this post:
 ```yml
 ---
 layout: post
-title:  "How to make a Post"
+title: "How to make a Post"
 summary: "Learn how to make a Post for the QAP Knowledgebase"
 author: carloskidman
-date: '2022-01-20 15:48:00 +0000'
-category: ['guides', 'testing']
+date: "2022-01-20 15:48:00 +0000"
+category: ["guides", "testing"]
 tags: QAP
 thumbnail: /assets/img/posts/christina-morillo.jpg
 keywords: guides, how to, post, make a post
@@ -91,8 +88,8 @@ Now add all of your wonderful markdown content! Once you're ready, we need some 
 
 If you are a new author, then you need to provide some info about you.
 
-* Author image - This is a small pic of you or an avatar. Branding matters, so do something you'd be proud of.
-* Author metadata - This is info about you (see below).
+- Author image - This is a small pic of you or an avatar. Branding matters, so do something you'd be proud of.
+- Author metadata - This is info about you (see below).
 
 > 💡 The name of your image and metadata files should match the `username` field of the post metadata
 
@@ -110,32 +107,32 @@ site: http://johndoe.com
 avatar: johndoe.png
 email: mail@johndoe.com
 social:
-    - title: "github"
-      url: "https://github.com/johndoe"
-    - title: "linkedin"
-      url: "https://www.linkedin.com/in/johndoe"
-    - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-    - title: "facebook"
-      url: "https://www.facebook.com/johndoe"
-    - title: "twitter"
-      url: "https://www.twitter.com/johndoe"
-    - title: "behance"
-      url: "https://behance.com/johndoe"
-    - title: "instagram"
-      url: "https://instagram.com/johndoe"
-    - title: "medium"
-      url: "https://medium.com/johndoe"
-    - title: "telegram"
-      url: "https://telegram.com/johndoe"
-    - title: "dribbble"
-      url: "https://dribbble.com/johndoe"
-    - title: "flickr"
-      url: "https://flickr.com/johndoe"
+  - title: "github"
+    url: "https://github.com/johndoe"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/johndoe"
+  - title: "youtube"
+    url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+  - title: "facebook"
+    url: "https://www.facebook.com/johndoe"
+  - title: "twitter"
+    url: "https://www.twitter.com/johndoe"
+  - title: "behance"
+    url: "https://behance.com/johndoe"
+  - title: "instagram"
+    url: "https://instagram.com/johndoe"
+  - title: "medium"
+    url: "https://medium.com/johndoe"
+  - title: "telegram"
+    url: "https://telegram.com/johndoe"
+  - title: "dribbble"
+    url: "https://dribbble.com/johndoe"
+  - title: "flickr"
+    url: "https://flickr.com/johndoe"
 ---
 ```
 
-### Send it!
+### Send it
 
 If you are working on the post locally or in gitpod, you can run the web server locally to see what everything will look like before you submit anything. I recommend having the web server running while you're writing 😎
 
@@ -143,8 +140,8 @@ If you are working on the post locally or in gitpod, you can run the web server 
 bundle exec jekyll serve --livereload
 ```
 
-* If you are in the project, make sure you've added the post, your author image, and author info. Then submit a pull request.
-* If not, send the markdown file and the author info to Carlos Kidman (via Slack, carlos@qap.dev, etc).
+- If you are in the project, make sure you've added the post, your author image, and author info. Then submit a pull request.
+- If not, send the markdown file and the author info to Carlos Kidman (via [Slack](https://join.slack.com/t/qautah/shared_invite/zt-4cbb6q78-J8opsCMlPqOKdef42x9kUw), carlos@qap.dev, etc).
 
 > 🎉 We will review it, ask for revisions (if needed), and eventually approve and publish it!
 
@@ -199,6 +196,6 @@ thumbnail: /assets/img/posts/christina-morillo.jpg
 
 ## You ready to contribute?
 
-That's everything you need to create a post for the **QAP Open Source Knowledgebase**. Check out our other posts, including this one, under the [_posts folder](https://github.com/qa-at-the-point/base/tree/main/_posts) for more examples and inspiration.
+That's everything you need to create a post for the **QAP Open Source Knowledgebase**. Check out our other posts, including this one, under the [\_posts folder](https://github.com/qa-at-the-point/base/tree/main/_posts) for more examples and inspiration.
 
 ✏️ Happy writing and have a quality day ✏️
