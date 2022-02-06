@@ -7,6 +7,8 @@ date: "2022-01-20 15:48:00 +0000"
 category: ["contribute", "guides"]
 tags: QAP
 thumbnail: /assets/img/posts/christina-morillo.jpg
+thumbnail-caption: "Photo by Christina Morillo from Pexels"
+thumbnail-alt: "Two people collaborating on a silver macbook laptop"
 keywords: get started, guides, how to, post, make a post
 usemathjax: false
 permalink: /blog/how-to-make-a-post/
@@ -29,7 +31,7 @@ This post is a guide to help you create one yourself, but please reach out if yo
   - [Add a Category](#add-a-category)
   - [Thumbnail](#thumbnail)
   - [References](#references)
-- [You ready to contribute?](#you-ready-to-contribute)
+- [Ready to contribute?](#ready-to-contribute)
 
 ## Anatomy of a Post
 
@@ -64,6 +66,8 @@ date: "2022-01-20 15:48:00 +0000"
 category: ["guides", "testing"]
 tags: QAP
 thumbnail: /assets/img/posts/christina-morillo.jpg
+thumbnail-caption: "Photo by Christina Morillo from Pexels"
+thumbnail-alt: "Two people collaborating on a silver macbook laptop"
 keywords: guides, how to, post, make a post
 usemathjax: false
 permalink: /blog/how-to-make-a-post/
@@ -194,8 +198,19 @@ thumbnail: /assets/img/posts/christina-morillo.jpg
 
 > 💡 This is a great [blog post by code-comments](https://code-comments.com/markdown-images-alt-text-and-title/) on how to do exactly this!
 
-## You ready to contribute?
+For the post's thumbnail image, include the:
+- `thumbnail-caption` - great for sourcing the image (crediting where you got the image from)
+- `thumbnail-alt` - Description of the image for accessibility
 
-That's everything you need to create a post for the **QAP Open Source Knowledgebase**. Check out our other posts, including this one, under the [\_posts folder](https://github.com/qa-at-the-point/base/tree/main/_posts) for more examples and inspiration.
+For example, this post uses these details:
+
+```yml
+thumbnail-caption: "Photo by Christina Morillo from Pexels"
+thumbnail-alt: "Two people collaborating on a silver macbook laptop"
+```
+
+## Ready to contribute?
+
+That's everything you need to create a post for the **QAP Open Source Knowledgebase**. Check out our other posts, including this one, under the [_posts folder](https://github.com/qa-at-the-point/base/tree/main/_posts) for more examples and inspiration.
 
 ✏️ Happy writing and have a quality day ✏️
