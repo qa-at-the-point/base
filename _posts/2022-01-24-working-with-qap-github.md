@@ -7,6 +7,8 @@ date: "2022-01-24 12:12:00 +0000"
 category: ["contribute", "github", "git"]
 tags: QAP
 thumbnail: /assets/img/posts/github-world.png
+thumbnail-caption: ""
+thumbnail-alt: "GitHub's Octocat looking up at the planet Earth."
 keywords: get started, guides, how to, git, github
 usemathjax: false
 permalink: /blog/working-with-qap-github/
