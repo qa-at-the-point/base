@@ -20,7 +20,7 @@ In this post, we will use examples from different roles including `Software Test
 
 > 👀 For a more detailed breakdown for interviewing a specific role, be on the lookout for new posts in the QAP Knowledge Base!
 
-## Table of Contents
+# Table of Contents
 
 - [Define the Problem](#define-the-problem)
   - [Questions as an exercise](#questions-as-an-exercise)
@@ -50,14 +50,12 @@ In this post, we will use examples from different roles including `Software Test
   - [Post Interview](#post-interview)
     - [Assess](#assess)
     - [Retrospect](#retrospect)
-  - [Next Steps](#next-steps)
 - [Conduct the Culture Fit Interview](#conduct-the-culture-interview)
-  - [Tour](#tour)
-  - [Meet the Team](#meet-the-team)
-  - [Meet Leadership](#meet-leadership)
 - [Final Decision](#final-decision)
 
-## Define the Problem
+---
+
+# Define the Problem
 
 You want to start on the right foot by defining the problem you're looking to solve by hiring. This step is crucial, yet it is often overlooked which causes a lot of problems down the road.
 
@@ -75,7 +73,7 @@ This happened to me a few times early on in my career... I was able to B.S. my w
 
 > 🚩 These are indicators or "red flags" that the inteviewers are not aligned and there is a lack of understanding and preparation. It doesn't look good.
 
-### Questions as an exercise
+## Questions as an exercise
 
 Instead, create a document that answers the `why`, `what`, `when`, `who`, and `how` questions. Here are some good questions to answer as an [Interview Team](#create-the-interview-team):
 
@@ -97,17 +95,17 @@ Answering these questions together and going through this exercise creates `alig
 
 ---
 
-## Create a Job Description
+# Create a Job Description
 
 Creating a Job Description (JD) is much easier once you've defined the problem. The main difference between the "problem doc" is that the Job Description is meant to be public-facing, provide a clear and concise description of the position, and **attract talent**.
 
 > 💡 Job Descriptions should never be more than 2 pages. I recommend making it a _single_ page!
 
-### What should a JD include?
+## What should a JD include?
 
 Remember, the goal is to attract talent while conveying the most critical pieces about the position. I like to have a layout like this:
 
-#### 1. Company Title and Details
+### 1. Company Title and Details
 
 Self-explanatory. Company name with any relevant info for the candidate to follow up or submit an application.
 
@@ -116,7 +114,7 @@ Self-explanatory. Company name with any relevant info for the candidate to follo
 - Hiring Manager contact info (example: email, LinkedIn)
 - How or where to apply
 
-#### 2. The Opportunity
+### 2. The Opportunity
 
 The "elevator pitch" for why they should be excited for this opportunity. Think of it as a summary of the project and role with some of the main benefits and perks.
 
@@ -133,7 +131,7 @@ Full-time (remote or hybrid): $115k - $140k USD
 
 > 💡 This has many benefits including helping underrepresented groups get fair pay, but candidates will respect the transparency as well.
 
-#### 3. What you'll do
+### 3. What you'll do
 
 A bulleted list of expectations, responsibilities, activities, and tasks that they will have in this position. For example, a Manager may have:
 
@@ -146,7 +144,7 @@ A bulleted list of expectations, responsibilities, activities, and tasks that th
 - Onboard and/or train new employees
 - Conduct one-on-ones and help engineers grow in their careers
 
-#### 4. What you need to succeed
+### 4. What you need to succeed
 
 A bulleted list of requirements, skills, knowledge, etc., that you believe the candidate must have to yield the highest chance of success.
 
@@ -158,7 +156,7 @@ For example, a Tester position may have:
 - Knowledge of heuristics like Observability
 - Comfortable leading pair and ensemble testing sessions with team members (example: devs, UX)
 
-### Support Recruitment
+## Support Recruitment
 
 The Problem Definition and Job Description should be _plenty_ for you and your recruiters to effectively find and attract talent. As a hiring manager, I always worked closely with my recruiters. Sometimes this meant pairing on a "phone screen" interview so they had an idea of the initial questions I would ask people. Or they would have a Career Fair opportunity at a university and we'd go as a team.
 
@@ -166,35 +164,35 @@ Recruiting is a full-time job with a lot of moving pieces and asynchronous conve
 
 ---
 
-## Prepare for the Interview
+# Prepare for the Interview
 
 While your recruiters are looking for candidates, you can work on creating the Interview Team and the actual interview. Start by defining the roles that team members will take on. This will help you pick your [core team and backups](#core-team-and-backups).
 
-### Interviewer Roles and Definitions
+## Interviewer Roles and Definitions
 
 Within the Interview Team, one person can take on multiple roles. Understanding these roles will help the interview run more smoothly.
 
 > 💡 Feel free to improvise and do what feels natural in the interview.
 
-#### Driver
+### Driver
 
 The person “running” the interview. They do the intro, present the agenda, “give the mic” to different people, ask interview questions, and provide the outtro/next steps.
 
 > 🚘 This person sets the tone and rhythm of the interview.
 
-#### Interviewer
+### Interviewer
 
 The person leading the questions, scenarios, and challenges.
 
 Usually the Subject Matter Expert (SME) or person that will work most closely with the candidate if hired. It is up to the Interviewer to decide which questions, scenarios, and challenges to use and which to skip while keeping things flexible if “tangents” or follow-up questions are valuable. Also, allow the Driver or Support to ask follow ups as well.
 
-#### Support
+### Support
 
 The person that “keeps the flow moving smoothly”.
 
 Keep everyone on topic, make sure we are time-boxing things appropriately, ask interview questions, etc. It’s easy for the Interviewer to dive deep into tangents or follow up questions, so make sure we manage our time for other pieces, like giving the candidate 5-10 minutes at the end to ask their questions.
 
-#### Candidate
+### Candidate
 
 The interviewee. They should be made to feel comfortable and welcome at all times. They should feel excited and that their time is appreciated. We want them leaving the interview with a positive experience, even if we say no.
 
@@ -202,7 +200,7 @@ Yes, we want to find the best candidate as quickly as possible, but never at the
 
 > 💡 My goal is always to create an awesome experience for the candidate so that, even if we say no or end early, they know what to work on next and want to apply again when they're ready!
 
-### Create the Interview Team
+## Create the Interview Team
 
 I like to use the `Rule of 3`.
 
@@ -213,7 +211,7 @@ Taking more than 3 rounds becomes more time consuming and expensive for you and 
 
 > ⚠️ As with many rules and "best practices", use them as guidelines. For example, hiring a Director or VP will probably take more time.
 
-#### Rounds and Sessions
+### Rounds and Sessions
 
 Quick definitions:
 
@@ -239,19 +237,19 @@ I like to have three interview rounds - each with a single session - for any non
 
 So, it's important to know what you want your whole Interview Process to look like. Each round and each session will require more coordination and people's time. Remember, we want to be efficient and effective!
 
-#### Core Team and Backups
+### Core Team and Backups
 
 The overall Interview Process is most effective when you have a consistent "core" team that sees and interviews every candidate. Interviewing is a skill, so growing that skill together will not only improve the quality of the interviews, but also make it easier to train up new interviewers.
 
 The core team for each round will consist of 2 or 3 people. As you saw in the [Roles and Definitions](#roles-and-definitions) section, you want to fill each role. For example, recently I was hiring an Automation Engineer and my core team consisted of:
 
-**Technical Interview**
+#### Technical Interview Team
 
 - Dan, Engineering Architect as `Support`
 - Me, Director of Engineering as `Driver` and `Interviewer`
 - [open space], maybe to train a new interviewer or show a junior- to mid-level engineer, etc.
 
-**Culture Fit**
+#### Culture Fit Interview Team
 
 - DJ, Cloud & Infrastructure Engineer as `Support`
 - Our CEO as `Interviewer`
@@ -264,15 +262,15 @@ Then, I had backups in case anyone on my core team was unable to make it (ie on 
 - Alina, Software Engineer as `Support`
 - ...
 
-#### Never Interview Alone
+### Never Interview Alone
 
 Never interview alone. The biggest reason is to protect you and the company legally, but other benefits include checking and balancing biases, and having insights from different perspectives.
 
-### Create the Interview
+## Create the Interview
 
 At this point you should have [defined the problem](#define-the-problem), [created a job description](#create-a-job-description), [formed the Core Team](#core-team-and-backups), and have an [interview process](#rounds-and-sessions) in place. Now you can create the actual interview for each round. Your goal in each round is to accurately assess the candidate and answer any questions or risks you and your team have. You use questions, scenarios and challenges to do this and, as always, we create documentation for each interview.
 
-#### Technical Interview
+### Technical Interview
 
 _Does the candidate have the skills, qualities, and attributes required to be successful?_
 
@@ -280,7 +278,7 @@ I like to start with the Technical Interview because that is the easiest to asse
 
 > If we are using a GitHub repo for our interviews, I'd call this document something like `technical-interview.md`
 
-##### Questions
+#### Questions
 
 Create a pool of 10-20 questions that your team feels will best help you assess the candidate. These are usually `open questions` which allow the candidate to answer with stories and examples, but also allows you to see their thoughts, beliefs, strategies, and philosophies.
 
@@ -316,7 +314,7 @@ I asked the QAP Community which questions they like to ask Testers in an intervi
 
 This is a good starting list, and will probably change later, but you don't need to fit all of them in an interview. You may only have time for 5-10 questions, but you can pull from this list and see which questions will be most effective for any given candidate.
 
-##### Scenarios
+#### Scenarios
 
 In this section, add 3-5 scenarios that pose a problem that the candidate must work out a solution(s) to. The candidate is now designing and implementing theoretical ideas and solutions while having to describe why.
 
@@ -352,23 +350,23 @@ And this is only the beginning of the scenario! As they ask questions and we pro
 
 As you can see, you can take these scenarios as far and as deep as you need to give you all the insights required to assess the candidate. Get creative with Scenarios!
 
-##### Challenges
+#### Challenges
 
 These would be things like coding challenges. You can think of it as an exercise that has a pretty clear input and output. For certain roles, you might not have any challenges or exercises and that's totally ok! However, many roles - especially programming roles - will usually have at least one challenge.
 
 Now, this can take many forms and the most common (as of this writing) are white board challenges and homework assignments. To be clear, I DO NOT like whiteboarding or homework assignments!
 
-**Whiteboard Challenge**
+##### Whiteboard Challenge
 
 This is where the interviewer poses a challenge and the candidate uses a marker and whitebaord to solve it. As programmers, we use tools and apps to write code and build software. So when an interviewer asks us to write code with a marker, without the tools we're used to, how is that an accurate assessment of the candidate? It's not, and puts the candidate in a difficult situation that only adds more stress and makes a lower quality experience for them.
 
-**Homework Assignment**
+##### Homework Assignment
 
 Ok, then let's give the candidate a project to work on at home so they can use their tools and do things on their own time without having to be in front of people. It sounds great, but these types of assignments are usually larger and require hours or days for the candidate to finish it. I've seen inteviewers give assignments and say, "This should only take about 2 hours, but get it to us as soon as you can".
 
 The interviewer may see the assignment as small and easy, but the candidate will spend way more time because they want to submit the highest quality solution they can. They might spend the next 24 hours on this and lose sleep and time with their family because they want to do it right. It makes for multiple days of stress for the candidate which leads to a lower quality experience for them.
 
-**Pair and Collaborate**
+##### Pair and Collaborate
 
 Instead, I like to pose a challenge to the candidate and pair with them on a solution! I will show two examples that I have used in the past to help assess programming and design ability - especially for Automation Engineers. I use Python, the language of Data and Automation, even if they don't know Python. I'm not testing their Python skills, but rather:
 
@@ -385,7 +383,7 @@ What makes this unique is that I share my screen and drive the keyboard. In othe
 
 > I've been told by many candidates that this part has been the best "coding challenge" that they've ever experienced!
 
-**Find the Bug and Fix It**
+##### Find the Bug and Fix It
 
 For this challenge, I provide a function that takes a string and returns `True` if it is a _palindrome_ and `False` if not. Then there are test functions that use different examples to test the function. Here's the code:
 
@@ -414,7 +412,7 @@ There are 3 steps to this challenge:
 
 Then I share my screen and ask, "where do you want to start?". I time box this challenge for 10 minutes. It may look very simple, but when you're in a high pressure environment, it's easy for nerves to make this harder. Yes, this is an easier one, but it really breaks the ice and gets the candidate comfortable and ready for the next challenge which is a lot more complex.
 
-**Consume a REST API to build the game of War**
+##### Consume a REST API to build the game of War
 
 In the next challenge, this is what they have to work with at the beginning:
 
@@ -443,7 +441,7 @@ For example, you can make Test Driven Development (TDD) a requirement, or ask to
 
 > As always, your challenges should help answer questions and risks you have about the candidate so you can confidently make a decision.
 
-#### Culture Fit
+### Culture Fit
 
 If done right, there shouldn't be any more "technical" assessment required for the final round. If so, make sure this interview team is aware of the gaps or questions you want to have answered so they can address it. Otherwise, it's time to see if this person is a good match for us in terms of people and process.
 
@@ -477,11 +475,13 @@ Just like the [Technical Interview](#technical-interview), come up with question
 - Are they trustworthy and accountable?
 - etc.
 
-## Conduct the Technical Interview
+---
+
+# Conduct the Technical Interview
 
 Preparation is complete and a candidate is scheduled for the [Technical Interview](#technical-interview)! You should have a resume (aka "CV") from the candidate and hopefully a portfolio. Create a new doc for the candidate (maybe `candidate_name.md`) to track ratings, performance, and notes.
 
-### Review the Resume
+## Review the Resume and Portfolio
 
 Make sure each Interview Team member gets a copy of the resume and portfolio, and have each member go through them on their own. While doing this, take notes and write down questions and concerns you have about the candidate against the role we're hiring for.
 
@@ -540,7 +540,7 @@ Our Job Description and recruiters tell the candidate to submit a portfolio as w
 
 > If you are a candidate, you _should_ have a portfolio. You are doing yourself a huge disservice if you don't have one. If you'd like help with your portfolio, please reach out in the `#general` or `#career-prep` channels in our Slack group, or create a [Discussion](https://github.com/qa-at-the-point/base/discussions) in our Knowledge Base.
 
-### Curate the Interview
+## Curate the Interview
 
 At this point, we have a great list of questions, scenarios, and challenges to assess the candidate. We also have a list of risks and concerns. However, we have a finite amount of time to interview. So, with your team, select which `questions`, `scenarios`, and `challenges` that will help you the best.
 
@@ -555,21 +555,21 @@ To help, I use a simple **5 Star** rating for each candidate. After reviewing th
 - **4 stars**: Yes. Move the candidate to the next round since they resolve most concerns and risks (common)
 - **5 stars**: Strong YES! Few concerns and risks. Can we hire the candidate right now (rare, but so exciting!)
 
-### Run the Interview
+## Run the Interview
 
 Finally, it's time to meet the candidate for the infamous Technical Interview. We've done all the planning and preparation in previous sections, so I'll focus on agenda, flow, and tips in this section.
 
 > COVID forced many things to be remote, so this will come from the perspective of a remote interview. There's not much difference besides maybe giving the candidate a small tour of the building and amenities.
 
-#### Agenda
+### Agenda
 
 Your agenda may vary, but I'll show a 2hr format as a good starting place. Make sure to provide an estimated timebox for each part.
 
-##### Welcome and Intro (5 min) [Driver]
+#### Welcome and Intro (5 min) [Driver]
 
 The Driver welcomes the candidate, introduces themselves and the other interviewers, and presents the agenda. Then ask the candidate to introduce themselves.
 
-##### Move to Questions (30 min) [Interviewer]
+#### Move to Questions (30 min) [Interviewer]
 
 > Driver "passes the mic" to the Interviewer to start on our curated list of [Questions](#questions).
 
@@ -577,13 +577,13 @@ It is common to dive deeper into a question or follow a tangent. That's ok and r
 
 I've had times where I had 10 questions ready to go and only got through 4 or 5 of them because we dove deeper and went on tangents! Always do what feels natural.
 
-##### Move to Scenarios (25 min) [Driver | Interviewer]
+#### Move to Scenarios (25 min) [Driver | Interviewer]
 
 > Interviewer "passes the mic" to the Driver to start on our curated list of [Scenarios](#scenarios).
 
 Similar to questions, you can take Scenarios as deep or as wide as you need. Usually the Candidate will have a lot of questions (as they should), so be sure to have answers for all of them. You may need to improvise on the fly to keep the scenario and context moving!
 
-##### Move to Challenges (30 min) [Interviewer]
+#### Move to Challenges (30 min) [Interviewer]
 
 > The Interviewer shares their screen with the first challenge up and ready to go.
 
@@ -600,7 +600,7 @@ The second challenge is difficult to complete in 20 minutes (some do, which usua
 
 > Not suprisingly, the Candidates that use a TDD approach are more likely to finish the challenge with a working solution. Candidates that skip tests and go directly into creating the program almost always get stuck with no easy way to workaround or resolve it.
 
-##### Candidate Questions (10 min) [Driver]
+#### Candidate Questions (10 min) [Driver]
 
 Give the Candidate 10 minutes to ask their questions. By default, the Driver will answer the questions unless:
 
@@ -609,7 +609,7 @@ Give the Candidate 10 minutes to ask their questions. By default, the Driver wil
 
 This leaves control of the flow with the Driver. It's extremely rare that a "risky" question is asked, but just in case, the Driver can intercept or redirect as needed. For example, I once had a candidate ask how one of our proprietary systems worked. One of the senior engineers started diving into details and I had to quickly cut them off and intercept the question. I still provided an answer, but it was one that also had the business's interests in mind.
 
-##### Outtro and Next Steps (5 min) [Driver]
+#### Outtro and Next Steps (5 min) [Driver]
 
 Thank the Candidate for their time and provide next steps.
 
@@ -617,11 +617,11 @@ I usually say something along the lines of:
 
 > Thank you, X, for taking the time to meet with us today! When you exit the call, we're gonna stay after and talk some more, but give us 2-3 business days to get back to you. I'll be sending you an email at example@test.com with the next steps, but feel free to reach out if there's anything else you'd like to discuss. Thanks again and have a quality day!
 
-### Post Interview
+## Post Interview
 
 With the Candidate gone, spend another 10-15 minutes as a team to assess the Candidate's performance and hold a small retrospective.
 
-#### Assess
+### Assess
 
 With the interview fresh in our minds, talk about the Candidate and how they did. By the end, each team member should have a new star rating for the candidate. I like to use the `Fist of Five` to quickly gauge this. Each team member raises their hand and shows the number of fingers (aka stars) they want to give.
 
@@ -631,7 +631,7 @@ I discussed the star rating in the [Curate the Interview](#curate-the-interview)
 - 3: Reject or Next Round. This usually leads to a rejection because "being on the face" is a red flag. What's holding you back? Discuss as a team.
 - 4-5: Next Round. The team is excited about the candidate and wants to move to the next round.
 
-#### Retrospect
+### Retrospect
 
 With a decision in place, now it's time to have a mini retrospective to assess how _we_ did as an Interview Team.
 
@@ -642,7 +642,9 @@ With a decision in place, now it's time to have a mini retrospective to assess h
 
 As with any retrospective, we want to genuinely reflect how we did so we can learn and get better. Interviewing isn't easy, but feedback is important for improvement.
 
-### Conduct the Culture Interview
+---
+
+# Conduct the Culture Interview
 
 The agenda and flow are very similar to the [Technical Interview](#conduct-the-technical-interview), but now you're going to use the questions, scenarios and challenges you defined in the [Culture Fit](#culture-fit) section.
 
@@ -661,7 +663,9 @@ I like to take people to lunch or coffee! Be creative with how you attract talen
 
 Then [Assess](#assess) and [Retrospect](#retrospect) again!
 
-### Final Decision
+---
+
+# Final Decision
 
 All the evidence is gathered and it's time to make a final decision. Hopefully it's a YES so you can send that awesome email and get other accounting items finalized (stocks, salary, sign-on bonus, etc)!
 
