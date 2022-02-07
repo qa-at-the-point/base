@@ -46,7 +46,8 @@ jobs:
         uses: articulate/actions-markdownlint@v1.1.0
         with:
           # Includes some specific rules to ignore
-          config: .github/workflows/markdownlint-config.json
+          # config: .github/workflows/markdownlint-config.json
+          config: .markdownlint.jsonc
           files: "_posts/**/*.md"
           # Ignore the built website, might have some funky files
           ignore: _site/
