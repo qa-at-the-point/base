@@ -21,7 +21,7 @@ The metrics can speak for themselves:
 
 ![Customer Expereince Metrics](/assets/img/posts/CustomerExperienceMetrics.png)
 
-So what can we, as testes, do to ensure that this becomes a focus for our organization as well to ensure customer experience gets wrapped into our holistic quality strategy?
+So what can we, as testers, do to ensure that this becomes a focus for our organization as well to ensure customer experience gets wrapped into our holistic quality strategy?
 
 ## Solution - Understanding Marketing Will Make You A Better Tester
 Wait, what? I know what you are thinking:
@@ -33,23 +33,28 @@ Marketing is about how to connect with the target market, deliver a message, and
 
 ## How its Done - The A, B, C, D, E of Marketing 
 This is how QA can focus on the customer experience.
+
 ### A - Audience
 > “100% of customers are people.” - Simon Sinek
 
 In marketing, it is absolutely vital to send your message to your target audience. Understandingly, the same is true in software, if you can't understand your end user, you won't be able to understand how they feel about the quality of the product. There should be no doubt that depending on the people we are serving with our products, that the type of audience we are serving matters. Testers should understand if we are building a product to be used in an emergency room at a hospital, or creating a food kiosk at an airport. Who we are tailoring our product to deeply matters to how they will interpret the quality of said product. 
 So how do we properly address the audience? User stories. Dive deep into those user stories and dive deeper around the possibility of personas of who could be that user. It helps to ask a lot of what if’s from your product owners to drive out all the scenarios you should be testing for. It’s also very important to dive into WHO is receiving what VALUE from this feature/functionality. Focusing on PEOPLE who receive the value from the product will keep the testers mind on the perceived quality from the end users perspective. 
+
 ### B - Behavioral Objective
 > “Well done is better than well said” - Benjamin Franklin
 
 Marketing teams are not out there simply trying to throw words and images around, their main objective is trying to change consumer behaviors. In software, the agreed upon change in behavior that the application delivers is the actual return on investment that the company wants to achieve. What proof allows the company to decide the application is making a meaningful impact? For testers this is aligning the customer experience with the company's overall goals and objectives. Quality is often simply distilled down to what expectations marketing and sales has set for the customer, and the agreed customer acceptance of said expectations once the product is delivered. For me, this is the crux of holistic quality for an organization. For testers, it is critical to have this alignment be understood in the user stories, test plans, and acceptance criteria of our testing efforts.
+
 ### C - Content
 > “You are what you believe yourself to be.” - Paulo Coelho
 
 One of the main goals of content in a marketing message is to give you a RTB - Reason to Believe. A RTB will give you the inspiration needed to make that purchase, or to convince you to change your current consumer behaviors. A quality customer experience with using a software product gives you that same content. Reports, logs, audit trails, proper documentation, cyber security verifications are all part of the content that testers need to ensure exist within the product. A quality user experience is one where the customer doesn't need another third party reporting service, because that was thought about as part of the feature. Or you wont need a completely detached learning management system to be able to properly figure out how to use the product. Items like these must be considered during the test plan phase or made part of the acceptance criteria of the Epics, Features, and Stories. The customer needs that RTB that the product is meeting all the expectations that were promised from sales and marketing teams. If the product doesn't easily give the consumer all the RTB it will meet expectations set by sales and marketing they will find another product that does give them that RTB.
+
 ### D - Delivery
 > “Everyone is unique and each experience is different.” - Gloria Steinem
 
-For marketing, finding out the best way to convince the consumer to change their buying habits is about WHERE the target audience will be at in order to best engage them. For software, it's about where our consumer connects with our application. For testers, it's about asking the question, is the attention to the value of the application properly given via that device? Has the same content been properly tailored to maximize customer satisfaction via the different platforms? This is where the quality of the product marries what it is being delivered on. Nowadays it is highly doubtful that your product is only being delivered via one medium (IE Desktop Computer). Most of the planet now consumes applications of any kind on their most mobile and personal devices (smart phones). Consumers expect the application to be usable to the screen size, and constraints within the device they are choosing to access the application. For example mobile screens are smaller, and are typically used in quicker stents, so do the main functions easy to read and navigate? Has your team or company thought about accessibility testing? Did you know that there are approximately 300 million people worldwide with colour blindness? (www.colourblindawareeness.org, 2022) Ensuring your product holds value no matter where or who is consuming it will help ensure a quality user experience.
+For marketing, finding out the best way to convince the consumer to change their buying habits is about WHERE the target audience will be at in order to best engage them. For software, it's about where our consumer connects with our application. For testers, it's about asking the question, is the attention to the value of the application properly given via that device? Has the same content been properly tailored to maximize customer satisfaction via the different platforms? This is where the quality of the product marries what it is being delivered on. Nowadays it is highly doubtful that your product is only being delivered via one medium (IE Desktop Computer). Most of the planet now consumes applications of any kind on their most mobile and personal devices (smart phones). Consumers expect the application to be usable to the screen size, and constraints within the device they are choosing to access the application. For example mobile screens are smaller, and are typically used in quicker spurts. So, are the main functions easy to read and navigate? Has your team or company thought about accessibility testing? Did you know that there are approximately 300 million people worldwide with colour blindness? (www.colourblindawareeness.org, 2022) Ensuring your product holds value no matter where or who is consuming it will help ensure a quality user experience.
+
 ### E - Evaluation
 > "What's measured, improves.” - Peter Drucker
 
