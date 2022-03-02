@@ -67,6 +67,5 @@ We have learned that aligning our successful test criteria with the business mat
 We have learned that giving the customers a reason to believe matters. (Content)
 We have learned that where, how, and who is consuming the product matters. (Delivery)
 We have learned that tracking the value of the product matters. (Evaluation)
-As the metrics have pointed out, a quality customer experience matters, and it is our job to ensure that quality, and learn how the customers perceive it.
-
+As the metrics have pointed out, a quality customer experience matters. It is our job, as testers, to ensure that we understand the customer perspective, and provide a quality customer experience.
 
