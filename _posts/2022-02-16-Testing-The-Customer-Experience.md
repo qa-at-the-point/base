@@ -15,7 +15,7 @@ permalink: /blog/Testing-The-Customer-Experience/
 ---
 
 ## The Problem
-Software quality has shifted so much to ensuring your product “works” and “doesn't break” that oftentimes the customer experience of actually USING the software is overlooked. Automated testing efforts ensure all the buttons call the correct API calls, yet can hardly tell you if the customers find your software workflows confusing or needing tutorials upon implementation specialists hand holding the customer to find any value from the product.
+Software quality has shifted so much to ensuring your product “works” and “doesn't break” that oftentimes the customer experience of actually USING the software is overlooked. Automated testing efforts ensure all the buttons call the correct API calls, yet can hardly tell you if the customers find your software workflows confusing or needing tutorials and hand holding from implementation specialists for the customer to find any value from the product.
 
 The metrics can speak for themselves:
 
