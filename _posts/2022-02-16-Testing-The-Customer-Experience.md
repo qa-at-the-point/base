@@ -6,7 +6,7 @@ author: DanPetersen
 date: "2022-02-16 15:48:00 +0000"
 category: ["testing"]
 tags: QAP
-thumbnail: /assets/img/posts/CustomerExperienceThumbnail.jpg
+thumbnail: /assets/img/posts/CustomerExperienceThumbnail.png
 thumbnail-caption: "Photo by playbookux"
 thumbnail-alt: "customer experience"
 keywords: customer experience, UI, UX, blog post,
