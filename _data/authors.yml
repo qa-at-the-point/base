@@ -1,4 +1,15 @@
 # Add Authors here
+
+danpetersen:
+  username: fundanman
+  bio: "Think Ted Lasso mixed with Phil Jackson"
+  site: https://www.linkedin.com/in/writedanhere/
+  avatar: danpetersen.png
+  email: writedanhere@gmail.com
+  social:
+    - title: "linkedin"
+      url: "https://www.linkedin.com/in/writedanhere/"
+
 carloskidman:
   username: carloskidman
   bio: "Founder of QAP . Director of Engineering . ML/AI"
